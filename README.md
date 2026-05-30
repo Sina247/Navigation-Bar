@@ -12,3 +12,8 @@ A responsive, interactive navigation bar built with HTML, CSS and JavaScript. Pr
 - 📱 **Responsive layout** : Works flawlessly on desktops, tablets and mobile devices.  
 - 🧩 **Reusable component** : Can be added to any project, dashboard or website template.  
 - 🎯 **Lightweight and fast** : Minimal CSS and JavaScript for smooth performance.  
+
+ ---
+ 
+## 🖼️ Screenshot
+<img width="1919" height="404" alt="Screenshot 2026-05-30 083237" src="https://github.com/user-attachments/assets/9fe4284a-ea54-44fc-9471-7e4b935a8ef7" />
